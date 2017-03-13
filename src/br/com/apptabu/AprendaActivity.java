@@ -1,5 +1,6 @@
-package br.com.example.apptabu;
+package br.com.apptabu;
 
+import br.com.apptabu.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;

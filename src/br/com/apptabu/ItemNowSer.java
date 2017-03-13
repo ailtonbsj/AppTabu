@@ -1,4 +1,4 @@
-package br.com.example.apptabu;
+package br.com.apptabu;
 
 import java.io.Serializable;
 
