@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.apptabu"
+    package="br.ailtonbsj.apptabu"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -18,7 +18,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="br.com.apptabu.HomeActivity"
+            android:name="br.ailtonbsj.apptabu.HomeActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,21 +27,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="br.com.apptabu.JogoActivity"
+            android:name="br.ailtonbsj.apptabu.JogoActivity"
             android:label="@string/title_activity_jogo"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="br.com.apptabu.ResultActivity"
+            android:name="br.ailtonbsj.apptabu.ResultActivity"
             android:label="@string/title_activity_result"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="br.com.apptabu.ResultadosActivity"
+            android:name="br.ailtonbsj.apptabu.ResultadosActivity"
             android:label="@string/title_activity_resultados" >
         </activity>
         <activity
-            android:name="br.com.apptabu.AprendaActivity"
+            android:name="br.ailtonbsj.apptabu.AprendaActivity"
             android:label="@string/title_activity_aprenda" >
         </activity>
     </application>

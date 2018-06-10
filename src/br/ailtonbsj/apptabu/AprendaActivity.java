@@ -1,6 +1,6 @@
-package br.com.apptabu;
+package br.ailtonbsj.apptabu;
 
-import br.com.apptabu.R;
+import br.ailtonbsj.apptabu.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;

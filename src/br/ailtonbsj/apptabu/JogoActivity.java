@@ -1,4 +1,4 @@
-package br.com.apptabu;
+package br.ailtonbsj.apptabu;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -8,7 +8,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Random;
 
-import br.com.apptabu.R;
+import br.ailtonbsj.apptabu.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

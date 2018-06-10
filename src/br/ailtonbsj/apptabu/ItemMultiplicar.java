@@ -1,4 +1,4 @@
-package br.com.apptabu;
+package br.ailtonbsj.apptabu;
 
 import java.io.Serializable;
 import java.math.RoundingMode;

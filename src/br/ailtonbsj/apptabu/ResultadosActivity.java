@@ -1,4 +1,4 @@
-package br.com.apptabu;
+package br.ailtonbsj.apptabu;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-import br.com.apptabu.R;
+import br.ailtonbsj.apptabu.R;
 
 import com.github.mikephil.charting.charts.BarChart;
 import com.github.mikephil.charting.charts.LineChart;

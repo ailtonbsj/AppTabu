@@ -1,6 +1,6 @@
-package br.com.apptabu;
+package br.ailtonbsj.apptabu;
 
-import br.com.apptabu.R;
+import br.ailtonbsj.apptabu.R;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
